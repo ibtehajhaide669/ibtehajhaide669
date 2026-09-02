@@ -1,48 +1,21 @@
-<h1 align="center">Hi, I'm Ibtehaj 👋</h1>
+# Ibtehaj Haider
 
-<p align="center">
-  Systems-minded developer, AI-native workflow.<br/>
-  I explore broadly and build — from backend architecture to product design, whatever the problem needs.
-</p>
+Systems-minded developer based in Karachi, working remotely with clients globally.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/based%20in-Karachi%2C%20PK-1D59A8?style=flat-square" alt="Based in Karachi, PK" />
-  <img src="https://img.shields.io/badge/working-remote%2C%20globally-0C8665?style=flat-square" alt="Working remote, globally" />
-</p>
+I design the architecture and logic behind what I build. AI is a core part of how I execute — I use it heavily for implementation speed, prototyping, and repetitive work — but the system design, data modeling, and the reasoning behind what gets built come from experience, not a prompt. It's leverage, not a replacement for judgment.
 
----
+## Focus
 
-### What I do
+Full production systems, not just interfaces: backend architecture, database design, and the applications built on top. Recent work includes ordering and operations platforms with real business logic — inventory, payments, role-based access — and POS systems for hospitality, built with strict typing, automated tests, and code review as standard practice, not an afterthought.
 
-I build full production systems, not just front-end polish — database design, backend services, mobile/web apps, and the UI on top of it. Recent focus: ordering and operations platforms with real business logic (inventory, payments, role-based access), built with strict typing, tests, and code review as standard practice, not an afterthought.
+I also take on brand and marketing sites end-to-end, from Figma through a live, responsive build.
 
-I also design and ship marketing/brand sites end-to-end when a project calls for it — from Figma to a live, responsive build.
+## Stack
 
-### Stack
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /></a>
-  <a href="https://webflow.com/" target="_blank"><img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white" /></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" /></a>
-</p>
-
-### Currently building
-
-- Ordering & operations platforms — customer apps, driver/fulfillment apps, and admin dashboards backed by a single API
-- POS/EPOS systems for hospitality — offline-capable, role-based, receipt/kitchen-print pipelines
-- Exploring AI-assisted development workflows as a core part of how I build, not just a tool on the side
+TypeScript, Node.js, React, React Native, Next.js, PostgreSQL, Prisma, Figma, Webflow, WordPress
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ibtehajhaide669?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibtehajhaide669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  </a>
-</p>
+<a href="https://github.com/ibtehajhaide669?tab=repositories" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibtehajhaide669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+</a>
