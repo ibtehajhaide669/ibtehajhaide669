@@ -17,3 +17,5 @@ TypeScript, Node.js, React, React Native, Next.js, PostgreSQL, Prisma, Figma, We
 ## Activity
 
 Most of my work lives in private repositories, not shown here.
+
+<img src="https://raw.githubusercontent.com/ibtehajhaide669/ibtehajhaide669/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repo" />
