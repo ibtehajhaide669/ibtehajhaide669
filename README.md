@@ -19,7 +19,6 @@ TypeScript, Node.js, React, React Native, Next.js, PostgreSQL, Prisma, Figma, We
 Most of my work sits in private client repos — production systems built under NDA or for paying clients, not open-source side projects. The activity below reflects that work.
 
 <a href="https://github.com/ibtehajhaide669?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibtehajhaide669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibtehajhaide669&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibtehajhaide669&layout=compact&theme=default&hide_border=true&count_private=true" alt="Top languages" height="165" />
 </a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibtehajhaide669&theme=github-compact&hide_border=true" alt="Contribution graph" width="100%" />
