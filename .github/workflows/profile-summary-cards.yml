@@ -5,14 +5,16 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          user: ibtehajhaide669
-          template: classic
-          theme: github_dark
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ibtehajhaide669
+          THEME: github_dark
